@@ -97,15 +97,11 @@
 ### 方法一：使用 pip 安装（推荐）
 
 ```bash
-# 1. 克隆或下载项目
-git clone https://github.com/yourusername/wechat-moments-analysis.git
-cd wechat-moments-analysis
-
-# 2. 创建虚拟环境（推荐）
+# 1. 创建虚拟环境（推荐）
 python -m venv venv
 venv\Scripts\activate  # Windows
 
-# 3. 安装依赖
+# 2. 安装依赖
 pip install -r requirements.txt
 ```
 
