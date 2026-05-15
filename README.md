@@ -19,7 +19,7 @@
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/yourname/WeChat-Moments-scraping-tool.git
+git clone https://github.com/Aaron-gx/WeChat-Moments-scraping-tool.git
 cd WeChat-Moments-scraping-tool
 
 # 2. 安装依赖
