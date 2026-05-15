@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+moments_*.json
+moments_*.xlsx
+朋友圈导出_*.json
+media/
+.env
+venv/
+*.bak
+.vscode/
+.idea/
+.claude/
+dist/
+build/
+*.egg-info/
